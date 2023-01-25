@@ -3,6 +3,7 @@
 Print a pascal's triangle
 """
 
+
 def pascal_triangle(n):
     """Function that returns a list of integers representing a pascal's
     triangle
