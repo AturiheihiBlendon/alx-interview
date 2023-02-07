@@ -12,7 +12,7 @@ def minOperations(n):
     if (n < 2):
         return 0
 
-    operations= 0
+    operations = 0
     iterations = 2
 
     while iterations <= n:
