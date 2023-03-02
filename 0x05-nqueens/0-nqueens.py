@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 ''' Solving the N queens problem '''
 
 from sys import argv, exit
